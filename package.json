@@ -1,0 +1,33 @@
+{
+  "name": "so-dayjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teneff/so-dayjs.git"
+  },
+  "keywords": [
+    "jest",
+    "dayjs"
+  ],
+  "author": "Stefan Teneff <st.teneff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teneff/so-dayjs/issues"
+  },
+  "homepage": "https://github.com/Teneff/so-dayjs#readme",
+  "dependencies": {
+    "dayjs": "^1.8.29"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "jest": "^26.1.0",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.0.5"
+  }
+}
